@@ -1,6 +1,6 @@
-Hi, I'm Giovanna 👋
+Hi, I'm Giovanna Breinack 👋
 
-- 🌱 I’m currently learning: Java, MySQL, HTML, CSS and JavaScript
+- 🌱 I’m currently learning: Java, MySQL, HTML, CSS, JavaScript and PHP
 
 ![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannabreinack&show_icons=true&theme=radical)
 
@@ -10,6 +10,7 @@ Hi, I'm Giovanna 👋
   <img align="center" alt="Giovanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Giovanna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Giovanna-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Giovanna-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 <br>
