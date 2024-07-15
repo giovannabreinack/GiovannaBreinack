@@ -38,9 +38,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/GiovannaBreinack/GiovannaBreinack/blob/output/github-contribution-grid-snake.svg)
 
-###
 
 
 
