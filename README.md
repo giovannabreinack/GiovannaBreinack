@@ -19,3 +19,7 @@ Hi, I'm Giovanna Breinack 👋
 
  <a href = "mailto:giovannabreinackcolombara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
+ <img src="https://raw.githubusercontent.com/GiovannaBreinack/GiovannaBreinack/output/snake.svg" alt="Snake animation" />
+
+###
+
