@@ -38,4 +38,10 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/GiovannaBreinack/GiovannaBreinack/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 
