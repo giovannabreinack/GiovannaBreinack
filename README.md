@@ -35,9 +35,15 @@
   <a href="https://www.linkedin.com/in/giovanna-colombara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>
 </div>
 
-###
-
+                                                                              
 <br clear="both">
+<img src="https://raw.githubusercontent.com/giovannabreinack/giovannabreinack/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
 
 
 
