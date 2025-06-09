@@ -27,7 +27,7 @@ Hi 👋, I'm Giovanna
 
 <div align="left">
     <a href = "mailto:giovannabreinackcolombara@gmail.com"><img src ="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanna-colombara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank></a>
+  <a href="https://www.linkedin.com/in/giovanna-colombara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank></a>
 </div>
 
                                                                               
