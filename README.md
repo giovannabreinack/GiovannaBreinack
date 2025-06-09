@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Giovanna and I'm a TI Student from Brazil</h2>
 
-<div align="right">
-<img src= "https://imgur.com/gallery/bmo-IBk3WPZ#gzQYgyx"/>
+<div align="left">
+  <a href="https://imgur.com/gzQYgyx"><img src="https://i.imgur.com/gzQYgyx.gif" title="source: imgur.com" width="300" height="300" /></a>
 </div>
 
 ###
