@@ -2,7 +2,6 @@ Hi 👋, I'm Giovanna
 💻 I love programming, solving problems, play games and learning new things  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannabreinack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
   <a href="https://imgur.com/gzQYgyx"><img src="https://i.imgur.com/gzQYgyx.gif" title="source: imgur.com" width="150" height="150" /></a>
 </div>
 <br>
